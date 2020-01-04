@@ -1,4 +1,8 @@
 hi dhanush hello how are you
+<<<<<<< Updated upstream
 I am fine siva how are you 
 wdwffffwfwfwfw
+=======
+cbnwiiiiviv am fine siva how are you 
+>>>>>>> Stashed changes
 
